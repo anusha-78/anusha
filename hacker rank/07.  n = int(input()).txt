@@ -1,0 +1,7 @@
+07.  n = int(input())
+    Tuple=map(int,input().split())
+    t=tuple(Tuple)
+    print(hash(t));
+input:2
+1 2
+output:3713081631934410656
